@@ -24,7 +24,6 @@ For example, if your repo is located at `https://github.com/your_username/usaf-g
     * Make sure you're on the `master` branch. Unless you're using an intermediate strategy of creating feature branches, all your changes should be made on your fork's `master` branch.
   * Write the smallest possible change to your code that adds or improves something without breaking anything that used to work.
   * `git status` to see if you're right about which files have changed.
-  * `git diff` to review your code, and verify that you're happy with all the things that have changed.
   * `git add` the files you want to commit (using paths from the `git status` command).
   * `git status` to verify that all and only the files you intended to add were added.
   * `git commit <file-name-here.md> -m "commit-message-here"` to commit your changes
@@ -36,7 +35,7 @@ For example, if your repo is located at `https://github.com/your_username/usaf-g
 
 ### Making Your First Commit
 
-- [ ] In your local clone, open the file that corresponds to your name: `ash-coca.md`
+- [ ] In your local clone, open the file that corresponds to your name: `your-name.md`
 - [ ] Answer the first question
 - [ ] Commit your changes to your local clone of the repository
 - [ ] Push your commit to GitHub
