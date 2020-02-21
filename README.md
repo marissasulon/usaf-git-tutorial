@@ -27,7 +27,7 @@ For example, if your repo is located at `https://github.com/your_username/usaf-g
   * `git add` the files you want to commit (using paths from the `git status` command).
   * `git status` to verify that all and only the files you intended to add were added.
   * `git commit <file-name-here.md> -m "commit-message-here"` to commit your changes
-  	* Note: Do not include the < > in the filename, DO include the quotes for the commit message!  
+  	* Note: Do not include the < > in the filename, DO include the quotes for the commit message!
   * Write an informative commit message, describing what has been improved.
   * `git status` to verify that the commit went as you expected.
   * `git push origin master` to send your changes back up to the forked repo on your Github account.

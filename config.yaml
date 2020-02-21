@@ -1,0 +1,11 @@
+Standards:
+  - Title: Git Tutorial
+    UID: d474c133-406b-4632-b320-3ff65a2c4ab2
+    Description: An Introduction to Version Control
+    SuccessCriteria:
+      - Understand the concept of version control
+      - Know how to use the basic git commands
+    ContentFiles:
+      - Type: Lesson
+        UID: fd7fb56c-059f-403f-9924-85be6e5cac42
+        Path: /README.md
