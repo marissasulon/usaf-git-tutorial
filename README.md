@@ -55,4 +55,12 @@ On the following page, review your changes then submit your first pull request!
 
 If you run into any merge conflicts, flag down an instructor.
 
-Happy coding!
+Good luck and happy coding!
+
+## Advanced Content
+
+Firstly, advanced content is 100% optional and not necessary to complete for your sprint to be considered finished. Advanced content is meant to be attempted only after you've finished all of the basics. It's designed to direct you down interesting paths and help you increase your autonomy, so challenge yourself to tackle these problems without extra guidance!
+
+- [ ] Figure out how to make a new branch from your master branch
+- [ ] Figure out how to push your new branch to your fork on github and then go to github and confirm that it worked!
+- [ ] Play through [Terminus](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) then add the `passwordToParadise` to the bottom of your file. Then commit and push up to GitHub.
