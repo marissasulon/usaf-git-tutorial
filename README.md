@@ -42,3 +42,17 @@ For example, if your repo is located at `https://github.com/your_username/usaf-g
 - [ ] Push your commit to GitHub
 - [ ] Go to GitHub.com then to your repository to verify your commit `your-name.md`
 - [ ] Repeat the above steps for remaining questions
+
+### Submitting Your First Pull Request
+
+Once you've finished answering all the questions, it's time to merge your changes back to the master repository!
+
+![](https://user-images.githubusercontent.com/40476562/75012045-3650a780-5425-11ea-9292-4ff9df348cec.png)
+
+On the following page, review your changes then submit your first pull request!
+
+![](https://user-images.githubusercontent.com/40476562/75012534-42893480-5426-11ea-8b30-fe06d8198f04.png)
+
+If you run into any merge conflicts, flag down an instructor.
+
+Happy coding!
