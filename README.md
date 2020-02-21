@@ -23,7 +23,6 @@ For example, if your repo is located at `https://github.com/your_username/usaf-g
   * `git status` to see that you're starting from a clean state.
     * Make sure you're on the `master` branch. Unless you're using an intermediate strategy of creating feature branches, all your changes should be made on your fork's `master` branch.
   * Write the smallest possible change to your code that adds or improves something without breaking anything that used to work.
-    * Should be about a 5-10 line change, taking 10-20 minutes. 15 lines at the max!
   * `git status` to see if you're right about which files have changed.
   * `git diff` to review your code, and verify that you're happy with all the things that have changed.
   * `git add` the files you want to commit (using paths from the `git status` command).
